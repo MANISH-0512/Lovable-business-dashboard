@@ -1,5 +1,7 @@
 # Lovable-business-dashboard
 
+# Link :- https://insight-whisperer-852.lovable.app/
+
 # Executive Summary
 
 1.This project presents a basic business analytics dashboard created using the Lovable platform.
